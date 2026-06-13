@@ -5,6 +5,8 @@ This project implements a Recurrent Neural Network (RNN) model to perform sentim
 The project demonstrates text preprocessing, sequence modeling, and binary classification using PyTorch.
 
 🚀 Features
+
+
 Text preprocessing using Regex & NLTK
 Stopword removal & stemming
 Tokenization and numerical encoding
