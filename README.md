@@ -21,3 +21,46 @@ Training & evaluation pipeline
 
 Predict sentiment for new reviews
 
+🛠️ Tech Stack
+
+Python
+
+PyTorch
+
+NLTK
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+📂 Project Structure
+
+Sentiment-Analysis-RNN/
+│── data/
+│── model.py
+│── train.py
+│── preprocess.py
+│── requirements.txt
+│── README.md
+
+🧠 Model Architecture
+
+Embedding Layer
+
+Recurrent Neural Network (RNN)
+
+Fully Connected Layer
+
+Sigmoid Activation
+
+👨‍💻 Author
+
+Piyush Kumar
+
+GitHub:  https://github.com/piyushbxr802123-prog
+
+
+
+
