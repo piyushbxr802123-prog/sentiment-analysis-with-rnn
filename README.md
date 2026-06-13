@@ -1,4 +1,4 @@
-
+📌 Project Description
 
 The RNN for Sentiment Analysis is a deep learning project developed to automatically classify movie reviews from the IMDB dataset as either positive or negative. The system performs extensive text preprocessing including converting text to lowercase, removing URLs, HTML tags, punctuation, stopwords, and applying stemming. The processed reviews are then converted into numerical representations and fed into a Recurrent Neural Network (RNN) model built using PyTorch with efficient DataLoaders.
 
